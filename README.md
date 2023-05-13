@@ -1,4 +1,27 @@
-### Hi there 👋
+## Hey there! 👋 I'm Rick
+
+### About Me
+
+- :technologist: I'm a Senior Software Engineer, Frontend @loyalhealth. My forte lies in developing user interfaces with React and TypeScript.
+- :computer: I've gathered experience over 7+ years working with an array of technologies, but I have a special fondness for Next.js, React, Redux, TypeScript, Styled Components, React Spring, and NodeJS.
+- :headphones: Currently coding on:
+  - UIs @loyalhealth
+  - Whatever crazy ideas I can come up with using ChatGPT
+  - [refactor-display-if](https://github.com/rickMcGavin/refactor-display-if) 
+    - a code refactoring script I wrote to refactor `display-if` props out of a React repository.
+- :closed_book: Currently reading: [Software Engineering the Soft Parts by Addy Osmani](https://addyosmani.com/blog/software-engineering-soft-parts/)
+- :dog: When I'm not coding, I can be found reading books, gaming, participating in cybersecurity challenges, hanging out with my family and dogs.
+- :smile: Pronouns: he/him/his
+- :zap: Fun Fact: As a kid, I thought the people on the tv shows I watched were watching me back :facepalm:.
+
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/rick-mcgavin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/rickmcgavin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!--
 **rickMcGavin/rickMcGavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
