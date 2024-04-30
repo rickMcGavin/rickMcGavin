@@ -7,9 +7,7 @@
 - :headphones: Currently coding on:
   - UIs @loyalhealth
   - Whatever crazy ideas I can come up with using ChatGPT
-  - [refactor-display-if](https://github.com/rickMcGavin/refactor-display-if) 
-    - a code refactoring script I wrote to refactor `display-if` props out of a React repository.
-- :closed_book: Currently reading: [Software Engineering the Soft Parts by Addy Osmani](https://addyosmani.com/blog/software-engineering-soft-parts/)
+- :closed_book: Currently reading: [Building large scale web apps: A React field guide](https://largeapps.dev/)
 - :dog: When I'm not coding, I can be found reading books, gaming, participating in cybersecurity challenges, hanging out with my family and dogs.
 - :smile: Pronouns: he/him/his
 - :zap: Fun Fact: As a kid, I thought the people on the tv shows I watched were watching me back :facepalm:.
