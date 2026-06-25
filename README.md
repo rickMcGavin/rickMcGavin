@@ -3,7 +3,7 @@
 ### About Me
 
 - :technologist: I'm a Senior Software Engineer, Frontend @loyalhealth. My forte lies in developing user interfaces with React and TypeScript.
-- :computer: I've gathered experience over 7+ years working with an array of technologies, but I have a special fondness for Next.js, React, Redux, TypeScript, Styled Components, React Spring, and NodeJS.
+- :computer: I've gathered experience over 9+ years working with an array of technologies, but I have a special fondness for Next.js, React, Redux, TypeScript, Styled Components, React Spring, and NodeJS.
 - :headphones: Currently coding on:
   - UIs @loyalhealth
   - Whatever crazy ideas I can come up with using ChatGPT
